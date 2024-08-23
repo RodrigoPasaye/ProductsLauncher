@@ -1,0 +1,3 @@
+[submodule "ClientGateway"]
+	path = ClientGateway
+	url = https://github.com/RodrigoPasaye/ClientGateway.git
