@@ -10,3 +10,6 @@
 [submodule "OrdersMicroservice"]
 	path = OrdersMicroservice
 	url = https://github.com/RodrigoPasaye/OrdersMicroservice.git
+[submodule "AuthMicroservice"]
+	path = AuthMicroservice
+	url = https://github.com/RodrigoPasaye/AuthMicroservice.git
